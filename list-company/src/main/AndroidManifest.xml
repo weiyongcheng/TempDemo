@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.chengying.com.list.company" >
+
+    <application>
+        <activity android:name=".CompanyActivity" android:theme="@style/CompanyLibraryTheme"/>
+    </application>
+
+</manifest>
