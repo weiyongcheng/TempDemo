@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CompressList.iml" filepath="$PROJECT_DIR$/CompressList.iml" />
+      <module fileurl="file://E:\androidproject\TempDemo\CompressList.iml" filepath="E:\androidproject\TempDemo\CompressList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TempDemo.iml" filepath="$PROJECT_DIR$/TempDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\androidproject\TempDemo\app\app.iml" filepath="E:\androidproject\TempDemo\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/list-company/list-company.iml" filepath="$PROJECT_DIR$/list-company/list-company.iml" />
+      <module fileurl="file://E:\androidproject\TempDemo\list-company\list-company.iml" filepath="E:\androidproject\TempDemo\list-company\list-company.iml" />
     </modules>
   </component>
 </project>

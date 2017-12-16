@@ -7,11 +7,12 @@ package org.chengying.com.list.company.entity;
 public class Express {
 
     private String mTitle;
-    private String mPinyin;
+    private String mSectionId;
 
-    public Express(String title, String pinyin) {
+
+    public Express(String title, String sectionId) {
         this.mTitle = title;
-        this.mPinyin = pinyin;
+        this.mSectionId = sectionId;
     }
 
     public Express() {
@@ -25,11 +26,11 @@ public class Express {
         this.mTitle = mTitle;
     }
 
-    public String getPinyin() {
-        return mPinyin;
+    public String getSectionId() {
+        return mSectionId;
     }
 
-    public void setPinyin(String mPinyin) {
-        this.mPinyin = mPinyin;
+    public void setSectionId(String mSectionId) {
+        this.mSectionId = mSectionId;
     }
 }

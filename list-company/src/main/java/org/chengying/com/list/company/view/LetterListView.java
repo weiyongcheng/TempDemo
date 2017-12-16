@@ -111,6 +111,6 @@ public class LetterListView extends View{
     }
 
     public interface OnTouchingLetterChangedListener {
-        void onTouchingLetterChanged(String s);
+        void onTouchingLetterChanged(String value);
     }
 }
